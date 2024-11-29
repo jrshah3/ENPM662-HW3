@@ -6,4 +6,4 @@ cd ENPM662-HW3
 pip install sympy numpy
 
 # Execute the script
-python hw3code.py
+python 121355690_hw3code.py
